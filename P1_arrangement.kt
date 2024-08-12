@@ -1,4 +1,6 @@
 fun main() {
+
+    // lets add some tracking lines
     println("Cinema:")
     print("  ")
     println("1 2 3 4 5 6 7 8")
